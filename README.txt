@@ -18,4 +18,3 @@ This is fully deprecated and if the features stop working this
 will NEVER get a update!
 
 made by zolo 
-released by fiverrr
